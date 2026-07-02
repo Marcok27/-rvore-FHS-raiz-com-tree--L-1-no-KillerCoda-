@@ -1,12 +1,10 @@
 # -rvore-FHS-raiz-com-tree--L-1-no-KillerCoda-
-O terminal que apresentou na imagem arvore FHS.png mostra a execução do comando tree -L 1 / dentro de um sistema Linux (Ubuntu), operando como utilizador root.
+O terminal que apresento na imagem arvore FHS.png mostra a execução do comando tree -L 1 / dentro de um sistema Linux (Ubuntu), operando como utilizador root.
 
 Esse comando serve para listar de forma visual e hierárquica, limitando-se apenas ao primeiro nível de profundidade (-L 1), todas as pastas principais presentes na raiz (/) do sistema.
 
-Para incluir isso de forma explicativa e profissional no seu repositório do GitHub (por exemplo, no ficheiro README.md), pode copiar e colar o seguinte trecho formatado:
 
-Exemplo de Comentário para o seu Repositório:
-Markdown
+
 ## Estrutura de Diretórios do Sistema (FHS)
 
 O ecossistema Linux segue o padrão **FHS (Filesystem Hierarchy Standard)** para organizar os seus ficheiros e pastas. Abaixo está o mapeamento visual do primeiro nível da raiz do sistema (`/`), obtido através do comando `tree`:
